@@ -35,15 +35,15 @@ In this exercise, I created local, and domain user accounts using a graphical to
 - <b>PLABDC01 - (Windows Server 2019 - Domain Controller)</b>
 - <b>PLABWIN101 - (Windows 10 - Domain Member)</b>
 
-<h2>Program walk-through:</h2>
+<h2>Walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Task 1 :Create a Local User <br/>
+<img src="https://i.imgur.com/BOGnUgC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ygp76tM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
